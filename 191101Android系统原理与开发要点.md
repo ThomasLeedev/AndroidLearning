@@ -156,3 +156,4 @@ $ repo sync
 
 ## 5. Android 的 JAVA 虚拟机和 JAVA 环境
 
+jni
