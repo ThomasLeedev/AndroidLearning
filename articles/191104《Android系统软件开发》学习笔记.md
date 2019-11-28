@@ -347,6 +347,8 @@ Zygote 将 DVM 运行环境准备好了，并开始调用执行 ZygoteInit.java 
 
 
 
+
+
 ## 8. Android HAL 硬件抽象层
 
 为了支持更多的设备类型，提出了 HAL 的概念。
